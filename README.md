@@ -8,3 +8,8 @@ This script is usable for calculating contrast ratio for validating the Web Cont
 For more information:
 
 http://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
+
+Usage
+-----
+
+    $ ./contrast-ratio.py "#FF0000" "#333"
